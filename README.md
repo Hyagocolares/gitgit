@@ -15,12 +15,25 @@
 
 ### 🏠 [Homepage](https://github.com/HyagoColaresUFRA/TEES-ATV1)
 
+<<<<<<< HEAD
 ## Faça o clone do repositorio
+=======
+## Install
+>>>>>>> a17a1ac059e599c1a821ba057e57446067775611
 
 ```sh
 git clone https://github.com/HyagoColaresUFRA/TEES-ATV1
 ```
 
+<<<<<<< HEAD
+=======
+## Install
+
+```sh
+cd calculadora-python
+```
+
+>>>>>>> a17a1ac059e599c1a821ba057e57446067775611
 ## Execute o script calculadora-python.py
 
 ```sh
@@ -44,7 +57,11 @@ This project is [MIT](https://github.com/HyagoColaresUFRA/TEES-ATV1/blob/main/LI
 
 ***
 <<<<<<< HEAD
+<<<<<<< HEAD
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+=======
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+>>>>>>> a17a1ac059e599c1a821ba057e57446067775611
 =======
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
 >>>>>>> a17a1ac059e599c1a821ba057e57446067775611
