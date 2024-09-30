@@ -11,20 +11,26 @@
   </a>
 </p>
 
-> Calculadora simples em Python
+> Calculadora simples em Python que permite realizar as quatro operações matemáticas básicas: adição, subtração, multiplicação e divisão.
 
 ### 🏠 [Homepage](https://github.com/HyagoColaresUFRA/TEES-ATV1)
 
 ## Install
 
 ```sh
-npm install
+git clone https://github.com/HyagoColaresUFRA/TEES-ATV1
 ```
 
-## Usage
+## Install
 
 ```sh
-Execute o script calculadora-python.py
+cd calculadora-python
+```
+
+## Execute o script calculadora-python.py
+
+```sh
+python calculadora-python.py
 ```
 
 ## Author
